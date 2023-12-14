@@ -1,15 +1,5 @@
-# advent-of-code-2023
+### Advent of Code 2023 - TypeScript with Bun
 
-To install dependencies:
+#### Overview
 
-```bash
-bun install
-```
-
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.0.17. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+Welcome to my Advent of Code solutions repository! This project contains my TypeScript solutions for the programming puzzles provided by Advent of Code.
