@@ -1,4 +1,4 @@
-import { data } from './input';
+import { data } from './data';
 
 const dict = {
   '1': 1,

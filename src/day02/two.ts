@@ -1,4 +1,4 @@
-import { data } from './input';
+import { data } from './data';
 
 let total = 0;
 

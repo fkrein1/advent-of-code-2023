@@ -1,4 +1,4 @@
-import { data } from './input';
+import { data } from './data';
 
 const nums = new Set(['1', '2', '3', '4', '5', '6', '7', '8', '9']);
 
@@ -19,6 +19,6 @@ for (const line of data) {
       break;
     }
   }
-  total += Number(num)
+  total += Number(num);
 }
-console.log(total)
+console.log(total);
